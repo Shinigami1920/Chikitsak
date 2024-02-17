@@ -4,7 +4,7 @@
 In this project, we have created a website to aid the distribution of medicines to people in war-hit and remote areas by coordinating the drones in our launch centers.
 We have added Autonomous Operation, Rapid Response, and Customized Routes for the drones to safely and properly deliver the medicines to people.
 
-Link for the website is- www.drone-620.getlandingsite.com
+Link for the website is- [www.drone-620.getlandingsite.com](https://drone-620.getlandingsite.com/consult)
 
 
 
